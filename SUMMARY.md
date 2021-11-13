@@ -7,7 +7,7 @@
 * [第四章 学习](notes/4-0.md)
     * [Linux环境下添加新用户](notes/4/4-1.md)
     * [NestJS学习](notes/4/4-2.md)
-    * [树莓派搭建BT下载器](notes/4/4-3.md)
+    * [树莓派搭建Transmission BT下载器](notes/4/4-3.md)
     * [基于ZeroTier实现内网穿透](notes/4/4-4.md)
     * [Nginx的安装和简单配置](notes/4/4-5.md)
 * [附录 安装和配置Gitbook](notes/extra.md)
