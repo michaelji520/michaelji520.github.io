@@ -11,5 +11,6 @@
     * [基于ZeroTier实现内网穿透](notes/4/4-4.md)
     * [Nginx的安装和简单配置](notes/4/4-5.md)
     * [树莓派安装配置Aria2 + Web UI](notes/4/4-6.md)
+    * [搭建自己的Web IDE](notes/4/4-7.md)
 * [附录 安装和配置Gitbook](notes/extra.md)
 
